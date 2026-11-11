@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=✦%20Welcome%20to%20My%20Code%20Space%20✦&fontSize=22&fontColor=E5E7EB&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=✦%20Sveiki,%20sveiki!%20✦&fontSize=22&fontColor=E5E7EB&animation=twinkling" width="100%" />
 
   <br />
 
-  <!-- Visual Accent Sawako -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animate/Anime/sawako-kimi-ni-todoke.gif" width="350" style="border-radius: 10px;" alt="Sawako Aesthetic" />
+  <!-- Visual Accent Sawako (Linknya diganti pakai link kamu di sini) -->
+  <img src="https://github.com/arshakhoirunnisa-art/arshakhoirunnisa-art/blob/main/sawakogif.gif?raw=true" width="350" style="border-radius: 10px;" alt="Sawako Aesthetic" />
 
   <br /><br />
 
