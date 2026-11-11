@@ -5,7 +5,7 @@
 
   <br />
 
-  <!-- Sawako Visual Accent -->
+  <!-- GIF Sawako Kamu -->
   <img src="https://media.tenor.com/bkPCy/giphy.gif" width="350" style="border-radius: 10px;" alt="Sawako Aesthetic" />
 
   <br /><br />
