@@ -5,6 +5,11 @@
 
   <br />
 
+  <!-- Sawako Visual Accent -->
+  <img src="https://media.tenor.com/bkPCy/giphy.gif" width="350" style="border-radius: 10px;" alt="Sawako Aesthetic" />
+
+  <br /><br />
+
   <!-- Status Badges -->
   <p>
     <img src="https://img.shields.io/badge/Vibe-Midnight_Code-1E293B?style=flat-square&labelColor=0D1117&color=38BDF8" />
