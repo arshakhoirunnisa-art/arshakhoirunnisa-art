@@ -5,8 +5,8 @@
 
   <br />
 
-  <!-- GIF Sawako Kamu -->
-  <img src="https://media.tenor.com/bkPCy/giphy.gif" width="350" style="border-radius: 10px;" alt="Sawako Aesthetic" />
+  <!-- Visual Accent Sawako -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animate/Anime/sawako-kimi-ni-todoke.gif" width="350" style="border-radius: 10px;" alt="Sawako Aesthetic" />
 
   <br /><br />
 
